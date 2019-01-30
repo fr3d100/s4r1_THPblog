@@ -1,24 +1,20 @@
-# README
+# Bienvenue
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ceci est mon super blog réalisé avec Rails :)
 
-Things you may want to cover:
+## Pour le tester :
 
-* Ruby version
+* Clone le projet git
+'''
+git clone https://github.com/fr3d100/s4r1_THPblog.git
+'''
 
-* System dependencies
+* Rend toi à la racine de l'application
+'''
+cd s4r1_THPblog
+'''
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Lance la console Rails 
+'''
+rails c
+'''
